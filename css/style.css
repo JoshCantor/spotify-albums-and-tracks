@@ -16,3 +16,9 @@ h1, h2, h3{
 	cursor: pointer;
 	text-decoration: underline;
 }
+
+#albums-and-tracks li {
+	color: #006fff;
+	cursor: pointer;
+	text-decoration: underline;
+}
